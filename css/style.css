@@ -1,0 +1,70 @@
+body{
+    background-color: #A0BEDA;
+}
+.navbar{
+    background-color: white;
+}
+.navbar-nav{
+    font-size: medium;
+}
+.contact{
+    background-color: #006ACA;
+}
+.jumbotron1{
+    background-image: url(/img/background.jpg);
+    height: 60vh;
+}
+.jumbotron-text1{
+    color: white;
+}
+.text-small{
+    font-size: small;
+}
+.wwd{
+    font-size: 30px;
+    color: #2B83D3;
+}
+.what-we-do{
+    background-color: white;
+}
+.card{
+    border-color: transparent;
+}
+.title{
+    border-left: medium #1073CD solid;
+}
+.button{
+    border-color: #006ACA;
+}
+.button :hover{
+    background-color: #006ACA !important;
+}
+.logo-cards{
+    background-color: #E3E9EE;
+}
+.offer{
+    font-size: 25px;
+    color: #2B83D3;
+}
+.card-2{
+    background-color: #E3E9EE;
+}
+.title-c-2{
+    color: #2B83D3;
+}
+.jumbotron2{
+    background-color: white;
+}
+.jumbotron-header2{
+    font-size: 30px;
+    color: #2B83D3;
+}
+footer{
+    background-color:#011C37;
+}
+footer h5{
+    color: white;
+}
+.designer{
+    text-align: center;
+}
